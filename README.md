@@ -1,16 +1,14 @@
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=Hello+Im+Akhtar+Shah!%3BFull+Stack+Developer%3BLaravel+%26+PHP+Specialist%3BREST+API+Expert%3BScalable+Systems+Builder%3BBackend+Specialist" alt="Typing SVG" />
 
-
-
-
-
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=akhtarshah264&color=58A6FF&style=flat-square&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/akhtar-shah)
 [![Email](https://img.shields.io/badge/Gmail-akhtarshah264%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:akhtarshah264@gmail.com)
 
-
-
+</div>
 
 ---
 
@@ -21,6 +19,7 @@
 - ⚡ Experienced in **E-commerce, Healthcare, Job Portals & On-Demand Platforms**
 - 💬 Ask me about **PHP, Laravel, MySQL, Stripe, Twilio & Firebase**
 - 📫 Reach me: **akhtarshah264@gmail.com**
+- 🎓 **BSc (Hons) Computer Science** — University of Swat
 
 ---
 
@@ -55,8 +54,7 @@
 
 ### 📊 GitHub Stats
 
-
-
+<div align="center">
 
 ![Akhtar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhtarshah264&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
@@ -64,8 +62,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=akhtarshah264&theme=github-dark-blue&hide_border=true)
 
-
-
+</div>
 
 ---
 
@@ -73,30 +70,28 @@
 
 | 🚀 Project | 📋 Description | 🛠️ Stack |
 |-----------|---------------|---------|
-| 🚗 **Drivers on Demand** | On-demand delivery platform (UK) — booking, assignment & live driver tracking | Laravel, MySQL, Websocket,React |
-| 🛒 **Convenient App** | E-commerce platform with Stripe, Google Pay & Twilio SMS notifications | Laravel, Stripe API, React |
-| 👔 **Career.vi** | Job portal migrated from legacy Core PHP to modern Laravel backend | Laravel, MySQL, |
-| 🏥 **Agewiser** | Healthcare platform with admin & physician dashboards + Firebase | Laravel, Firebase Analytics, React  |
+| 🚗 **Drivers on Demand** | On-demand delivery platform (UK) — booking, assignment & live driver tracking | Laravel, MySQL |
+| 🛒 **Convenient App** | E-commerce platform with Stripe, Google Pay & Twilio SMS notifications | Laravel, Stripe API |
+| 👔 **Career.vi** | Job portal migrated from legacy Core PHP to modern Laravel backend | Laravel, MySQL |
+| 🏥 **Agewiser** | Healthcare platform with admin & physician dashboards + Firebase | Laravel, Firebase |
 
 ---
 
 ### 🤝 Let's Connect
 
-
-
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akhtar-shah)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhtarshah264@gmail.com)
 
-
-
+</div>
 
 ---
 
-
-
+<div align="center">
 
 *"First solve the problem, then write the code."*
 
 ⭐ **If you find my work interesting, consider starring my repos!** ⭐
 
+</div>
