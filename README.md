@@ -19,7 +19,6 @@
 - ⚡ Experienced in **E-commerce, Healthcare, Job Portals & On-Demand Platforms**
 - 💬 Ask me about **PHP, Laravel, MySQL, Stripe, Twilio & Firebase**
 - 📫 Reach me: **akhtarshah264@gmail.com**
-- 🎓 **BSc (Hons) Computer Science** — University of Swat
 
 ---
 
